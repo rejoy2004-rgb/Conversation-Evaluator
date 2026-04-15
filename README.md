@@ -1,67 +1,98 @@
-# 💬 Conversation Evaluator 
+# 💬 Conversation Evaluator (AI & ML Assignment)
 
 ## 📌 Overview
-This project implements a **scalable and production-ready system** to evaluate conversational AI outputs across **300+ distinct facets**.  
-The evaluation framework captures multiple dimensions of dialogue quality, including:
+This project implements a scalable conversation evaluation system that scores conversations across 300+ facets covering:
 
-- 🗣️ **Language Quality** (grammar, clarity, fluency)
-- ⚠️ **Safety** (harmfulness, bias, toxicity)
-- 😊 **Emotion & Empathy** (tone, emotional awareness)
-- 🤝 **Helpfulness** (relevance, completeness, usefulness)
+- Language Quality  
+- Safety  
+- Emotion  
+- Helpfulness  
 
-The architecture is designed to scale seamlessly to **5000+ facets without requiring redesign**, making it suitable for large-scale benchmarking.
+The system is designed to be production-ready, modular, and scalable up to 5000+ facets without changing the architecture.
+
+---
+
+## 🎯 Objective
+To design a benchmark system that:
+- Evaluates each conversation turn
+- Uses 300+ distinct facets
+- Produces structured scores with confidence values
+- Scales efficiently to large datasets
 
 ---
 
 ## ⚙️ Key Features
-- ✅ **Scalable Facet-Based Evaluation** (300–5000+ facets supported)
-- ✅ **Modular Pipeline Design** (preprocessing → evaluation → aggregation)
-- ✅ **Hybrid Approach** (rule-based logic + LLM-ready integration)
-- ✅ **Structured JSON Output** with detailed and summary scores
-- ✅ **Confidence Scoring Mechanism** based on evaluation coverage
-- ✅ **Streamlit UI** for real-time interaction and visualization
+
+### ✅ Scalable Architecture
+- Dynamically loads facets from CSV
+- No hardcoding → supports 300–5000 facets
+
+### ✅ Modular Design
+- Preprocessing
+- Evaluation
+- Aggregation
+- Facet loading
+
+### ✅ Facet-Level Scoring
+- Each facet is scored between 1–5
+- Covers multiple aspects of conversation quality
+
+### ✅ Category-Level Aggregation
+- Facets grouped into:
+  - Language
+  - Safety
+  - Emotion
+  - Helpfulness
+- Scores computed using averages
+
+### ✅ Confidence Score
+- Outputs a confidence value for each evaluation
+
+### ✅ Streamlit UI
+- Allows user input
+- Displays evaluation results interactively
 
 ---
 
 ## 🧠 Methodology
 
-The system follows a multi-stage evaluation pipeline:
-
-### 1. Preprocessing
-- Cleans and standardizes conversation data
-- Handles multiple input formats (dict / raw text)
+### 1. Data Preprocessing
+- Cleans conversation text
+- Standardizes format
 - Removes empty or invalid entries
 
-### 2. Facet-Level Evaluation
-- Each conversation is evaluated across **300+ independent facets**
-- Rule-based heuristics simulate scoring behavior
-- Supports future integration with LLM-based evaluation
+### 2. Facet Loading
+- Loads facets from CSV file
+- Cleans facet names (removes numbering and symbols)
+- Filters invalid or corrupted entries
 
-### 3. Categorization & Aggregation
-- Facets are dynamically grouped into:
-  - Language
-  - Safety
-  - Emotion
-  - Helpfulness
-- Category scores are computed as averages of relevant facets
+### 3. Evaluation Engine
+- Rule-based scoring logic:
+  - Language → clarity, fluency
+  - Safety → harmful content detection
+  - Emotion → sentiment indicators
+  - Helpfulness → assistance-related words
+- Adds slight randomness for variation
 
-### 4. Final Scoring
+### 4. Aggregation
+- Groups facet scores into categories
 - Computes:
-  - Category-level scores
-  - Overall score (mean of all facets)
-  - Confidence score (based on number of facets used)
+  - Category scores
+  - Overall score
+  - Confidence
 
 ---
 
 ## 📊 Output Format
 
-Each conversation produces a structured JSON output:
-
 ```json
 {
   "conversation_id": "1",
-  "turn_id": 1,
   "num_facets_used": 399,
+  "facet_scores": {
+    "Clarity": 4,
+    "Empathy": 5
+  },
   "scores": {
     "language": 4,
     "safety": 4,
