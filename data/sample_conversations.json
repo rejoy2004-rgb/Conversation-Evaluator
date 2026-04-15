@@ -1,0 +1,16 @@
+[
+  {
+    "conversation_id": "1",
+    "conversation": [
+      {"role": "user", "text": "I feel stressed"},
+      {"role": "assistant", "text": "I'm here to help you. Try to relax."}
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "conversation": [
+      {"role": "user", "text": "Hello"},
+      {"role": "assistant", "text": "Hi! How can I help you today?"}
+    ]
+  }
+]
