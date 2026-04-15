@@ -1,0 +1,1302 @@
+[
+  {
+    "conversation_id": "1",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel stressed"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm here to help you. Try to relax."
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Hello"
+      },
+      {
+        "role": "assistant",
+        "text": "Hi! How can I help you today?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am sad"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm sorry to hear that. Want to talk about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am happy"
+      },
+      {
+        "role": "assistant",
+        "text": "That's great! Keep enjoying your day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel lonely"
+      },
+      {
+        "role": "assistant",
+        "text": "You're not alone. I'm here with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am confused"
+      },
+      {
+        "role": "assistant",
+        "text": "Let\u2019s figure it out together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I failed my exam"
+      },
+      {
+        "role": "assistant",
+        "text": "That\u2019s okay. You can improve next time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel tired"
+      },
+      {
+        "role": "assistant",
+        "text": "Take some rest and recharge yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am angry"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a deep breath and stay calm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Give me motivation"
+      },
+      {
+        "role": "assistant",
+        "text": "You\u2019ve got this! Keep going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "11",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel anxious"
+      },
+      {
+        "role": "assistant",
+        "text": "Try to stay calm and breathe slowly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "12",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am bored"
+      },
+      {
+        "role": "assistant",
+        "text": "Try doing something fun or creative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "13",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Help me study"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure! Let\u2019s start step by step."
+      }
+    ]
+  },
+  {
+    "conversation_id": "14",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel nervous"
+      },
+      {
+        "role": "assistant",
+        "text": "It's okay. Try deep breathing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "15",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am excited"
+      },
+      {
+        "role": "assistant",
+        "text": "That's awesome! What are you excited about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "16",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel hopeless"
+      },
+      {
+        "role": "assistant",
+        "text": "Things can improve. Stay strong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "17",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I need help"
+      },
+      {
+        "role": "assistant",
+        "text": "Of course! Tell me what you need."
+      }
+    ]
+  },
+  {
+    "conversation_id": "18",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel sick"
+      },
+      {
+        "role": "assistant",
+        "text": "Please take care and consider seeing a doctor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "19",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am frustrated"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a break and come back refreshed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "20",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I want to improve"
+      },
+      {
+        "role": "assistant",
+        "text": "Start small and stay consistent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "21",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel stressed"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm here to help you. Try to relax."
+      }
+    ]
+  },
+  {
+    "conversation_id": "22",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Hello"
+      },
+      {
+        "role": "assistant",
+        "text": "Hi! How can I help you today?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "23",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am sad"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm sorry to hear that. Want to talk about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "24",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am happy"
+      },
+      {
+        "role": "assistant",
+        "text": "That's great! Keep enjoying your day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "25",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel lonely"
+      },
+      {
+        "role": "assistant",
+        "text": "You're not alone. I'm here with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "26",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am confused"
+      },
+      {
+        "role": "assistant",
+        "text": "Let\u2019s figure it out together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "27",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I failed my exam"
+      },
+      {
+        "role": "assistant",
+        "text": "That\u2019s okay. You can improve next time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "28",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel tired"
+      },
+      {
+        "role": "assistant",
+        "text": "Take some rest and recharge yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "29",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am angry"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a deep breath and stay calm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "30",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Give me motivation"
+      },
+      {
+        "role": "assistant",
+        "text": "You\u2019ve got this! Keep going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "31",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel anxious"
+      },
+      {
+        "role": "assistant",
+        "text": "Try to stay calm and breathe slowly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "32",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am bored"
+      },
+      {
+        "role": "assistant",
+        "text": "Try doing something fun or creative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "33",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Help me study"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure! Let\u2019s start step by step."
+      }
+    ]
+  },
+  {
+    "conversation_id": "34",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel nervous"
+      },
+      {
+        "role": "assistant",
+        "text": "It's okay. Try deep breathing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "35",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am excited"
+      },
+      {
+        "role": "assistant",
+        "text": "That's awesome! What are you excited about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "36",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel hopeless"
+      },
+      {
+        "role": "assistant",
+        "text": "Things can improve. Stay strong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "37",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I need help"
+      },
+      {
+        "role": "assistant",
+        "text": "Of course! Tell me what you need."
+      }
+    ]
+  },
+  {
+    "conversation_id": "38",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel sick"
+      },
+      {
+        "role": "assistant",
+        "text": "Please take care and consider seeing a doctor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "39",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am frustrated"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a break and come back refreshed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "40",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I want to improve"
+      },
+      {
+        "role": "assistant",
+        "text": "Start small and stay consistent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "41",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel stressed"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm here to help you. Try to relax."
+      }
+    ]
+  },
+  {
+    "conversation_id": "42",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Hello"
+      },
+      {
+        "role": "assistant",
+        "text": "Hi! How can I help you today?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "43",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am sad"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm sorry to hear that. Want to talk about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "44",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am happy"
+      },
+      {
+        "role": "assistant",
+        "text": "That's great! Keep enjoying your day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "45",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel lonely"
+      },
+      {
+        "role": "assistant",
+        "text": "You're not alone. I'm here with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "46",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am confused"
+      },
+      {
+        "role": "assistant",
+        "text": "Let\u2019s figure it out together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "47",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I failed my exam"
+      },
+      {
+        "role": "assistant",
+        "text": "That\u2019s okay. You can improve next time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "48",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel tired"
+      },
+      {
+        "role": "assistant",
+        "text": "Take some rest and recharge yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "49",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am angry"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a deep breath and stay calm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "50",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Give me motivation"
+      },
+      {
+        "role": "assistant",
+        "text": "You\u2019ve got this! Keep going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "51",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel anxious"
+      },
+      {
+        "role": "assistant",
+        "text": "Try to stay calm and breathe slowly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "52",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am bored"
+      },
+      {
+        "role": "assistant",
+        "text": "Try doing something fun or creative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "53",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Help me study"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure! Let\u2019s start step by step."
+      }
+    ]
+  },
+  {
+    "conversation_id": "54",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel nervous"
+      },
+      {
+        "role": "assistant",
+        "text": "It's okay. Try deep breathing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "55",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am excited"
+      },
+      {
+        "role": "assistant",
+        "text": "That's awesome! What are you excited about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "56",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel hopeless"
+      },
+      {
+        "role": "assistant",
+        "text": "Things can improve. Stay strong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "57",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I need help"
+      },
+      {
+        "role": "assistant",
+        "text": "Of course! Tell me what you need."
+      }
+    ]
+  },
+  {
+    "conversation_id": "58",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel sick"
+      },
+      {
+        "role": "assistant",
+        "text": "Please take care and consider seeing a doctor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "59",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am frustrated"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a break and come back refreshed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "60",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I want to improve"
+      },
+      {
+        "role": "assistant",
+        "text": "Start small and stay consistent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "61",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel stressed"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm here to help you. Try to relax."
+      }
+    ]
+  },
+  {
+    "conversation_id": "62",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Hello"
+      },
+      {
+        "role": "assistant",
+        "text": "Hi! How can I help you today?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "63",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am sad"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm sorry to hear that. Want to talk about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "64",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am happy"
+      },
+      {
+        "role": "assistant",
+        "text": "That's great! Keep enjoying your day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "65",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel lonely"
+      },
+      {
+        "role": "assistant",
+        "text": "You're not alone. I'm here with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "66",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am confused"
+      },
+      {
+        "role": "assistant",
+        "text": "Let\u2019s figure it out together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "67",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I failed my exam"
+      },
+      {
+        "role": "assistant",
+        "text": "That\u2019s okay. You can improve next time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "68",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel tired"
+      },
+      {
+        "role": "assistant",
+        "text": "Take some rest and recharge yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "69",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am angry"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a deep breath and stay calm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "70",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Give me motivation"
+      },
+      {
+        "role": "assistant",
+        "text": "You\u2019ve got this! Keep going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "71",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel anxious"
+      },
+      {
+        "role": "assistant",
+        "text": "Try to stay calm and breathe slowly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "72",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am bored"
+      },
+      {
+        "role": "assistant",
+        "text": "Try doing something fun or creative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "73",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Help me study"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure! Let\u2019s start step by step."
+      }
+    ]
+  },
+  {
+    "conversation_id": "74",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel nervous"
+      },
+      {
+        "role": "assistant",
+        "text": "It's okay. Try deep breathing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "75",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am excited"
+      },
+      {
+        "role": "assistant",
+        "text": "That's awesome! What are you excited about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "76",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel hopeless"
+      },
+      {
+        "role": "assistant",
+        "text": "Things can improve. Stay strong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "77",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I need help"
+      },
+      {
+        "role": "assistant",
+        "text": "Of course! Tell me what you need."
+      }
+    ]
+  },
+  {
+    "conversation_id": "78",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel sick"
+      },
+      {
+        "role": "assistant",
+        "text": "Please take care and consider seeing a doctor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "79",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am frustrated"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a break and come back refreshed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "80",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I want to improve"
+      },
+      {
+        "role": "assistant",
+        "text": "Start small and stay consistent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "81",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel stressed"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm here to help you. Try to relax."
+      }
+    ]
+  },
+  {
+    "conversation_id": "82",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Hello"
+      },
+      {
+        "role": "assistant",
+        "text": "Hi! How can I help you today?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "83",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am sad"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm sorry to hear that. Want to talk about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "84",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am happy"
+      },
+      {
+        "role": "assistant",
+        "text": "That's great! Keep enjoying your day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "85",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel lonely"
+      },
+      {
+        "role": "assistant",
+        "text": "You're not alone. I'm here with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "86",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am confused"
+      },
+      {
+        "role": "assistant",
+        "text": "Let\u2019s figure it out together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "87",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I failed my exam"
+      },
+      {
+        "role": "assistant",
+        "text": "That\u2019s okay. You can improve next time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "88",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel tired"
+      },
+      {
+        "role": "assistant",
+        "text": "Take some rest and recharge yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "89",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am angry"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a deep breath and stay calm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "90",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Give me motivation"
+      },
+      {
+        "role": "assistant",
+        "text": "You\u2019ve got this! Keep going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "91",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel anxious"
+      },
+      {
+        "role": "assistant",
+        "text": "Try to stay calm and breathe slowly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "92",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am bored"
+      },
+      {
+        "role": "assistant",
+        "text": "Try doing something fun or creative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "93",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Help me study"
+      },
+      {
+        "role": "assistant",
+        "text": "Sure! Let\u2019s start step by step."
+      }
+    ]
+  },
+  {
+    "conversation_id": "94",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel nervous"
+      },
+      {
+        "role": "assistant",
+        "text": "It's okay. Try deep breathing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "95",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am excited"
+      },
+      {
+        "role": "assistant",
+        "text": "That's awesome! What are you excited about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "96",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel hopeless"
+      },
+      {
+        "role": "assistant",
+        "text": "Things can improve. Stay strong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "97",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I need help"
+      },
+      {
+        "role": "assistant",
+        "text": "Of course! Tell me what you need."
+      }
+    ]
+  },
+  {
+    "conversation_id": "98",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I feel sick"
+      },
+      {
+        "role": "assistant",
+        "text": "Please take care and consider seeing a doctor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "99",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am frustrated"
+      },
+      {
+        "role": "assistant",
+        "text": "Take a break and come back refreshed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "100",
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I want to improve"
+      },
+      {
+        "role": "assistant",
+        "text": "Start small and stay consistent."
+      }
+    ]
+  }
+]
