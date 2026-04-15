@@ -1,4 +1,4 @@
-# 💬 Conversation Evaluator (AI & ML Assignment)
+# 💬 Conversation Evaluator
 
 ## 📌 Overview
 This project implements a scalable conversation evaluation system that scores conversations across 300+ facets covering:
@@ -102,3 +102,55 @@ To design a benchmark system that:
   "overall_score": 4,
   "confidence": 0.85
 }
+
+conversation_evaluator/
+│
+├── data/
+│   ├── sample_conversations.json
+│   └── Facets Assignment.csv
+│
+├── src/
+│   ├── preprocess.py
+│   ├── evaluator.py
+│   ├── aggregator.py
+│   └── facet_loader.py
+│
+├── app.py
+├── main.py
+├── model.py
+├── requirements.txt
+└── results.json
+🚀 How to Run
+1. Install dependencies
+
+pip install -r requirements.txt
+
+2. Run evaluation
+
+py main.py
+
+3. Run UI
+
+streamlit run app.py
+
+🧪 Dataset
+Contains 300+ conversations
+Each conversation has multiple turns
+Easily extendable
+🔒 Constraints Satisfied
+No one-shot prompt solution
+Modular architecture
+Supports ≥5000 facets
+Compatible with open-weight models
+🎁 Bonus Features
+Confidence scoring
+Streamlit UI
+Scalable design
+🧠 Future Improvements
+Replace rule-based scoring with LLM-based evaluation
+Add visual dashboards (charts)
+Improve sentiment analysis
+Support multi-turn deep reasoning
+👨‍💻 Author
+
+Rejoy Besra
