@@ -84,6 +84,8 @@ To design a benchmark system that:
   - Confidence  
 
 ---
+## Live Demo
+Streamlit App: https://conversation-evaluator-rejoy2004rgb.streamlit.app
 
 ## 📊 Output Format
 
@@ -104,3 +106,4 @@ To design a benchmark system that:
   "overall_score": 4,
   "confidence": 0.85
 }
+
